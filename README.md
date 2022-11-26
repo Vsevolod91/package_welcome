@@ -3,3 +3,4 @@
 		git clone https://github.com/Vsevolod91/package_welcome.git
 	2) находясь в домашней директории, выполните команду:
 		python3 -m pip install --user package_welcome/dist/package_welcome-0.1.0-py3-none-any.whl
+После установки пакет запускается короткой командой do-something
